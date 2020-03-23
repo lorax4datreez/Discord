@@ -1,0 +1,40 @@
+{
+  "username": "ORANGE CORPS - Nova Logistics",
+  "embeds": [
+    {
+      "author": {
+        "name": "___**Orange Corp Squardron__*", 
+        "url": "https://discord.gg/NDSHqN",
+        "icon_url": "https://cdn.discordapp.com/attachments/514917919264604210/691505617071898654/c53bc1c0-b72b-49cc-a384-938fccd7f54b_200x200.png"
+      },
+      "color": "13391104",
+      "fields": [
+        {
+          "name": "ORANGE CORP RECRUITING",
+          "value": "Our member follow the [NOVA Code of Conduct](https://discord.gg/qryv2U) and when applicable the [RSI RPG Rulebook](https://robertsspaceindustries.com/community/citizen-spotlight/3862-Star-Citizen-RPG-Rulebook)",
+          "inline": false
+        },
+        {
+          "name": "-------------------------------------",
+          "value": "Thank you for your interest in ORANGE CORPS, we will like to share a little bit about us and then if you are still interesetd get some information back from you in our application\n\nOrange Corp rounds out the other Nova Logistics Core's by providing High - Hazard mining, trading, refueling, and time sensitive hot-shot logistics. Our crews are all graduates of the TDD's Merchant Marine program and as such understand the importance of being ready and able to take their role as an auxiliary force to the combat arms of Nova.  With their cross training these merchant mariners have unique ability and insight to haul the most dangerous loads in the most treacherous places - Lorville's Pad 8 for example. They are also willing and able to take up arms and defend what they have fought hard to supply alongside our Combat Arms brethren at Nova. We are always true to our motto Semper Gumbybus - Always Flexible!",
+          "inline": false
+        },
+        {
+          "name": "",
+          "value" : "",
+         "inline": false
+        }
+      ],
+      "thumbnail": {
+        "url": "https://cdn.discordapp.com/attachments/480131823113076737/691534366945443850/output-PNG-INDUSTRY.png"
+      },
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/514917919264604210/691505617071898654/c53bc1c0-b72b-49cc-a384-938fccd7f54b_200x200.png"
+      },
+      "footer": {
+        "text": "ORANGE CORPS OFFICIAL MESSAGE 03.23.2049",
+        "icon_url": ""
+      }
+    }
+  ]
+}
